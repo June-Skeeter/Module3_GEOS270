@@ -191,6 +191,9 @@ Skim the Introduction of the [Documentation](https://www.statcan.gc.ca/eng/subje
 ### [WA4](Application_Part3.md#wa4) - 10pts
 Create Scatter Plot with Population Density on the X-Axis and Income_on_Food on the Y axis.  Does the r2 score indicate a relationship?  How does classifying the data help us reveal patterns in the data we cant easily see in the scatter plot?
 
+- The scatterplot does not show a strong relationshp.  Classifiying the highlights the relationship better, by specifically grouping census subdivisions using two factors: total population **and** population density.  It allows us to see that cities have a close spread in the same range.  It also shows that while not all rurlal area are impacted by food affordability issues, all of the worst affected areas **are** rural.
+
+
 ---
 
 ## File Submissions
