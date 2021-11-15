@@ -217,3 +217,4 @@ All written answers and file submissions will be scored using this generic rubri
 | 50% |Below Expectations  |
 | 75% |Met Expectations    |
 | 100%|Exceeds Expectations|
+
