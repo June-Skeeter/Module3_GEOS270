@@ -63,11 +63,11 @@ Which unsupervised map classification method in ArcGIS Pro will usually provide 
 - Manual breaks
 
 [**4**](Content_Part1.md)
-Supervised classification methods area always better than unsupervised because humans are smarter than computers. [T/F]
+Supervised classification methods are always better than unsupervised because humans are smarter than computers. [T/F]
 
 
 [**5**](Content_Part1.md)
-Unsupervised classification methods require no input from the user, the computer does all the work!! [T/F]
+Unsupervised classification methods require no input from the user, the computer does all the work. [T/F]
 
 [**6**](Content_Part2.md)
 Briefly, explain the differences between Supervised and Unsupervised classification methods.
@@ -85,7 +85,7 @@ Diverging color maps are great for showing deviations from a mean value. [T/F]
 Sequential color maps use gradations of different shades (light/dark) of the same color. [T/F]
 
 [**11**](Content_Part2.md)
-The best maps pack the most amount of information into the least amount of space [T/F]
+The best maps pack the most amount of information into the least amount of space. [T/F]
 
 [**12**](Content_Part2.md)
 Every map should always have a north arrow. [T/F]
@@ -115,17 +115,16 @@ We used the clip tool to ensure we don't  ____ population density in the coastal
 
 * Overestimate
 * Underestimate
-* Miscalculate
 * Correctly Calculate
 
-[**17**](Application_Part2.md#a-revised-classification) - 10pts
+[**17**](Application_Part2.md#a-revised-classification)
 What was the reasoning behind Stats Canada updating from the old Rural/Urban to the Population Centre and Rural Area classification method?
 
 [**18**](Application_Part2.md#applying-the-classification)
 The Select by ____ tool lets us use SQL (Structured Query Language) to define expressions for querying vector data.
 
 [**19**](Application_Part3.md#plotting-relationships)
-Box plots are most useful for looking at frequency distributions [T/F].
+Box plots are most useful for looking at frequency distributions. [T/F]
 
 [**20**](Application_Part3.md#plotting-relationships)
 In which Population Centre and Rural Area class does the the largest proportion of BC's population live?
@@ -136,7 +135,7 @@ In which Population Centre and Rural Area class does the the largest proportion 
 - Medium Population Centre
 
 [**21**](Application_Part3.md#plotting-relationships)
-What proportion of BC's overall population lives in Rural Areas?  *Hint* Sum the four classes to get the total population.
+What  percent  of BC's overall population lives in Rural Areas?  Round your answer to the nearest percent.  *Hint* Sum the four classes to get the total population.
 
 [**22**](Application_Part3.md#plotting-relationships)
 What is the median percentage of their income people in Rural areas spend on food?  (Round to the nearest tenth)
