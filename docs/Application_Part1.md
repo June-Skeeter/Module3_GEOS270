@@ -56,16 +56,6 @@ The steps outlined in the video are:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eEtLTafGxbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!-- 
-### QA1
-
-Simply Analytics allows you to download data about businesses locations. [T/F]
-
-### WA1
-
-Do you think this kind of information (locations of restaurants, groceries, etc.) might be helpful when studying the cost of food in a region?
- -->
-
 ---
 
 # Pre-Processing
@@ -93,15 +83,4 @@ The steps outlined in the video are:
 	* The simply analytics data comes with a text file containing header names you can reference to give them more helpful names
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YRm8Bv958gw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!-- 
-### QA2
-
-We used the clip tool to ensure we don't  ____ population density in the coastal Subdivisions.
-
-### WA2
-
-Which projection did are choose for the feature dataset?  Why did I choose this projection?
-
- -->
 
