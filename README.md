@@ -1,3 +1,3 @@
-# Module4_GEOS270
+# Module2_GEOS270
 
-https://june-skeeter.github.io/Module4_GEOS270/
+https://june-skeeter.github.io/Module2_GEOS270/
