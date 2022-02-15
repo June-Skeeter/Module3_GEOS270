@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Module 4
+title: Module 3
 nav_order: 1
 ---
 
@@ -8,7 +8,26 @@ nav_order: 1
 
 Now that we've covered the types of data and data models.  We're going to cover how we display data in clean and effective ways.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jUioyJ7HIrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Learning Outcomes
+
+### Lecture
+
+- Discussion of descriptive statistics
+- Overview of different data classification methods
+	- Supervised vs. unsupervised methods
+	- How do they relate to data types
+	- Why classify data
+- Data normalization methods
+- Discussion of Canadian Census Data
+- Pointers for effective data visualization
+	- Importance of color choice
+	- Clean, effective displays of information
+
+### Lab
+
+* Use Simply Analytics to download Canadian census data
+* Apply different data classification methods
+* Practice creating effective visualizations
 
 # Deliverables
 
