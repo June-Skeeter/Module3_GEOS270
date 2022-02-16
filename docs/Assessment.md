@@ -138,7 +138,7 @@ In which Population Centre and Rural Area class does the the largest proportion 
 What  percent  of BC's overall population lives in Rural Areas?  Round your answer to the nearest percent.  *Hint* Sum the four classes to get the total population.
 
 [**22**](Application_Part3.md#plotting-relationships)
-What is the median percentage of their income people in Rural areas spend on food?  (Round to the nearest tenth)
+What is the median value for the percentage of income that people in Rural areas spend on food?  Round to the nearest tenth percent.
 
 [**23**](Application_Part3.md#benefits-of-data-classification)
 How does classifying the data help us reveal patterns compared to what we see in the scatter plot?  Does the r2 score indicate a relationship in the scatter plot?  What conclusions can you draw about the proportion of income spent on food by people in different regions from looking at the box plot?
