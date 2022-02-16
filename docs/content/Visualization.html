@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+  <title>Reveal.js template</title>
+  <!-- credit https://bl.ocks.org/elipousson/f64814b1ee4aab5d83775bfbf556d35a -->
+
+  <meta name="description" content="Simple Reveal.js slidedeck template. Source files loaded from jsDelivr.">
+  <meta name="author" content="jitesh@spinspire.com">
+
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.2.1/reveal.min.css">
+
+<!-- 
+    <link id="theme" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.2.0/dist/theme/white.css"> -->
+    <link id="theme" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.2.1/theme/serif.css">
+
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/reveal.min.css"> -->
+
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/theme/serif.css" id="theme"> -->
+  <!-- see: https://cdnjs.com/libraries/highlight.js/ -->
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/ir-black.min.css"> -->
+
+  <!-- Printing and PDF exports -->
+  <!-- <script>
+    // Load print, pdf stylesheets from jsDelivr
+    var srcUrlPrefix = 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/';
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = srcUrlPrefix + (window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css');
+    document.getElementsByTagName('head')[0].appendChild(link);
+  </script> -->
+
+
+  <!--[if lt IE 9]>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/lib/js/html5shiv.js"></script>
+    <![endif]-->
+  <style>
+    body {
+      /* make it totally black */
+      /*background-color: black;*/
+    }
+
+    .container {
+      display: flex;
+    }
+
+    .col {
+      flex: 1
+    }
+
+
+.left {
+  left:-8.33%;
+  text-align: left;
+  float: left;
+  width:50%;
+  z-index:-10;
+}
+
+.right {
+  left:31.25%;
+  top: 75px;
+  float: right;
+  text-align: right;
+  z-index:-10;
+  width:50%;
+}
+
+
+ul {
+  padding-left: 5px;
+}
+
+
+
+  </style>
+</head>
+
+<body>
+
+  <div class="reveal">
+
+    <div class="slides">
+
+       <section>
+        <h1 style="font-size:320%">Data Visualization</h1>
+        <div class="container" style="text-align:center;">
+          <p>Displaying patterns in data, emphasizing aspects we think are important, conveying our results.</p>
+      </section>
+
+     <section>
+        <div class="container">
+          <div class="left">
+          </div>
+            <h2>Good Maps</h2>
+            <ul>
+              <li>Accessible by target audience.</li>
+              <li>Clean and easy to read.</li>
+            </ul>
+          
+          <div class="right" style="text-align: Left;">
+            <h2>Bad Maps</h2>
+            <ul>
+              <li>Misses target audience.</li>
+              <li>Cluttered and ineffective.</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+
+      <section>
+        <div class="container">
+          <h2>Design Principals</h2>
+          <div class="col">
+            <p>Gives the viewer the greatest number of ideas in the shortest time with the least ink in the smallest space.</p>
+            <ul>
+              <li>Complex ideas communicated with clarity, precision, and efficiency.</li>
+              <li>Maximize data-to-ink ratio (i.e. more data, less other stuff).</li>
+              <li>Erase non-data ink, within reason</li>
+            </ul>
+            
+          </div>
+          <!-- <div class="right">
+            
+          </div> -->
+        </div>
+      </section>
+
+      <section>
+        <div class="container">
+          <h2>Stylistic Guidelines</h2>
+          <div class="left">
+            
+          </div>
+          <div class="right">
+            
+          </div>
+        </div>
+      </section>
+
+    </div><!-- .slides -->
+
+  </div><!-- .reveal -->
+
+  <!-- not needed since 3.8.0 -->
+  <!-- script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/lib/js/head.min.js"><script -->
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/js/reveal.min.js"></script> -->
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.2.1/reveal.min.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.2.1/plugin/math/math.min.js"></script>
+
+  <script>
+    // Full list of configuration options available at:
+    // https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+      controls: true,
+      progress: true,
+      history: true,
+      center: true,
+      overview: false,
+      loop: false,
+      margin: 0.04,
+      width: 1200,
+
+
+      transition: 'none',
+
+    plugins: [ RevealMath.MathJax2 ]
+    },
+
+
+    );
+  </script>
+</body>
+
+</html>
+
+<!-- 
+
+        // plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+      // plugins: [ RevealMath.MathJax2 ], // none/fade/slide/convex/concave/zoom
+
+      // Optional reveal.js plugins, loaded from jsDelivr
+      // dependencies: [
+      //   { src: srcUrlPrefix + 'lib/js/classList.js', condition: function () { return !document.body.classList; } },
+      //   { src: srcUrlPrefix + 'plugin/markdown/marked.js', condition: function () { return !!document.querySelector('[data-markdown]'); } },
+      //   { src: srcUrlPrefix + 'plugin/markdown/markdown.js', condition: function () { return !!document.querySelector('[data-markdown]'); } },
+      //   { src: srcUrlPrefix + 'plugin/highlight/highlight.js', async: true, condition: function () { return !!document.querySelector('pre code'); }, callback: function () { hljs.initHighlightingOnLoad(); } },
+      //   { src: srcUrlPrefix + 'plugin/zoom-js/zoom.js', async: true },
+      //   { src: srcUrlPrefix + 'plugin/notes/notes.js', async: true },
+      //   { src: srcUrlPrefix + '/plugin/math/math.js', async: true }
+      // ] -->
