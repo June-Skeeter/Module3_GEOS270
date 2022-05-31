@@ -20,7 +20,7 @@ There are distinct social, political, and economic differences between Urban and
 
 # Download the Project
 
-I've already done most of this for you to save you a bit of time.  You can download it [here](https://raw.githubusercontent.com/June-Skeeter/Module3_GEOS270/main/data/Module3.zip).  Extract the Module3 project folder to your working directory (eg. C:/Temp).  Open it, and double click the Module3.aprx file to open your project. **Note** this module used to be Module #4, so the video names and filenames in the videos say "Module 4".  The names in the project folder have been updated, so don't be concerned.
+I've already done most of this for you to save you a bit of time.  You can download it [here](https://raw.githubusercontent.com/June-Skeeter/Module3_GEOS270/main/data/Module3.zip).  Extract the Module3 project folder to your working directory (eg. C:/Temp).  Open it, and double click the Module3.aprx file to open your project. **Note** this module used to be Module #4, so some filenames in the videos say "Module 4".  The names in the project folder have been updated, so don't be concerned.
  
 # Workflow
 
